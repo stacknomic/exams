@@ -1,0 +1,13 @@
+{
+     "examTitle": "Accounts Assistant Practice Set 1",
+     "durationMinutes": 90,
+     "negativeMarks": 0.25,
+     "questions": [
+       {
+         "id": 1,
+         "text": "What is accounting equation?",
+         "options": ["Assets = Liabilities + Equity", "Revenue = Expenses", "Cash = Debt", "None"],
+         "correctOptionIndex": 0
+       }
+     ]
+   }
